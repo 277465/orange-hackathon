@@ -1,8 +1,3 @@
 # Orange Hackathon
-# Dokumentacja.pdf - plik z opisem całego pomysłu na aplikacje
-# -->Prototyp
-#    coś
-#   coś
-#    coś
-
-  
+# Dokumentacja-JAM.pdf - plik z opisem całego pomysłu na aplikacje
+# Orange_Hackathon-JAM - kod do prototypu aplikacji
